@@ -34,7 +34,7 @@ BOT_CONFIG_FILE = "bot_configs.json"
 BOT_DATA_DIR = "bot_data"  # Directory to store each bot's data
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7904603108:AAFcdNk8XMI3zYYji3pKlmr8sRf7RbQksIc'
+TELEGRAM_BOT_TOKEN = '7510007370:AAHhWGSTJzmwMTFyeTC0sGfRN_s0sZcInis'
 OWNER_USERNAME = "@itskapilyadav"
 CO_OWNERS = []  # List of user IDs for co-owners
 OWNER_CONTACT = "Contact to buy keys"
